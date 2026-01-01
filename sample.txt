@@ -1,0 +1,3 @@
+Retrieval-Augmented Generation improves LLM accuracy. 
+It works by retrieving relevant documents before generating answers. 
+ChromaDB stores embeddings for fast similarity search.
